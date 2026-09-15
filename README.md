@@ -13,6 +13,8 @@ Just a toy scraper I made for myself.
 - This probably breaks Instagram's ToS. It's for my own learning.
 - Respect copyright. Don't redistribute anything you download.
 - Login is done manually in the opened browser.
+- Cookies are borrowed from Firefox, so you need to be logged into
+  Instagram in Firefox first.
 
 ## Setup
 
@@ -30,5 +32,6 @@ Ctrl+C to stop.
 
 ## Notes
 
-- Paths and browser choices are hardcoded.
+- Only works on my machine, probably. Paths and browser choices are
+  hardcoded.
 - No tests, no error handling worth mentioning. It's a sketch.
